@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+header {
+  background-image: url(bg.jpg);
+  height: 1900px;
+}
+main {
+    background-image: url(Content.png);
+    height: 700;
+    z-index: 2;
+}
